@@ -1,1 +1,2 @@
 # LinqExamples
+Açıklama yazıyorum 
